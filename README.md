@@ -23,7 +23,7 @@ Technologies Used
     Bootstrap 4/5
 Demo
 
-Check out a live preview of the project: https://ajay6433.github.io/WDContest/
+Check out a live preview of the project: https://ajay6433.github.io/Customized-Bootstrap-Template/
 
 Screenshots: 
 
